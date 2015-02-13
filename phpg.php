@@ -1,5 +1,5 @@
 <?php
-
+namespace ramshresh\php\pg;
 /**
  * Author: Joshua D. Burns <josh@messageinaction.com>
  * Web Site: http://www.youlikeprogramming.com
